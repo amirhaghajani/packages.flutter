@@ -525,7 +525,7 @@ class _PdfViewPinchState extends State<PdfViewPinch>
           alignPanAxis: false,
           boundaryMargin: EdgeInsets.zero,
           minScale: 1.0,
-          maxScale: 20,
+          maxScale: 25,
           panEnabled: true,
           scaleEnabled: true,
           child: SafeArea(
